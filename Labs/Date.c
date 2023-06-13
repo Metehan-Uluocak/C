@@ -6,7 +6,7 @@
 int main()
 {
     int day,month,year;
-    printf("Every month 30 days\n")
+    printf("Every month 30 days\n");
     printf("Format 1: (DAY MONTH YEAR) \n");
     scanf("%d %d %d", &day , &month , &year);
 
